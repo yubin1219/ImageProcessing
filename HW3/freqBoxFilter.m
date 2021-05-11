@@ -1,6 +1,6 @@
 function dst = freqBoxFilter(src,kernel_size)
   
-% Frequency domain Filtering %
+% Frequency domain Filtering - Using Box kernel %
   
 h = ones(kernel_size,kernel_size) ./ (kernel_size^2);
 M = size(src,1);
