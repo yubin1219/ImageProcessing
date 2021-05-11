@@ -1,5 +1,5 @@
 function dst = freqGaussFilter(src,kernel_size)
-  
+% Frequency domain Filtering - Gaussian kernel % 
 % Generate Gaussian kernel
 if kernel_size == 31
     sig = 5;
