@@ -63,3 +63,13 @@
 
 - img_2의 Fourier spectrum과 img_1의 phase angle을 사용하여 Reconstuct한 Image   
 <img src="https://user-images.githubusercontent.com/74402562/117850393-348c3180-b2c0-11eb-9db1-430ab144998a.PNG" width="30%" height="30%"></img>
+
+3. Notch Filter   
+- Input Image   
+<img src="https://user-images.githubusercontent.com/74402562/117980619-1df0e380-b36f-11eb-983c-ac95a065dfc8.PNG" width="30%" height="30%"></img>
+- Input Image의 Fourier spectrum   
+<img src="https://user-images.githubusercontent.com/74402562/117980637-221d0100-b36f-11eb-967a-4d27589639a8.PNG" width="30%" height="30%"></img>
+- Fourier transform multiplied by a Butterworth notch reject filter transfer function   
+<img src="https://user-images.githubusercontent.com/74402562/117980648-23e6c480-b36f-11eb-9622-4908002038ce.PNG" width="30%" height="30%"></img>
+- Output Image   
+<img src="https://user-images.githubusercontent.com/74402562/117980652-25b08800-b36f-11eb-9726-c9328f9e463f.PNG" width="30%" height="30%"></img>
