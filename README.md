@@ -20,7 +20,7 @@
   <img src="https://user-images.githubusercontent.com/74402562/117855329-563be780-b2c5-11eb-8e34-e95926213e5a.jpg" width="28%" height="28%"></img>
   <img src="https://user-images.githubusercontent.com/74402562/117855166-31477480-b2c5-11eb-8223-19cedaeaa1f8.png" width="36%" height="36%"></img>
 
-3. Spartial Domain Filtering   
+3. Spatial Domain Filtering   
   - Box kernel 11x11 - Zero Padding & Mirror Padding   
   <img src="https://user-images.githubusercontent.com/74402562/117856342-761fdb00-b2c6-11eb-86e2-d43de4238496.PNG" width="50%" height="50%"></img>
   
