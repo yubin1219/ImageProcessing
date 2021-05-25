@@ -77,3 +77,17 @@
 - Output Image   
 
 <img src="https://user-images.githubusercontent.com/74402562/117980652-25b08800-b36f-11eb-9726-c9328f9e463f.PNG" width="30%" height="30%"></img>
+
+-----------------
+### HW4
+Image Restoration
+
+1. Spatial Non-linear Filtering
+- Salt & Pepper Noise 생성
+- Contraharmonic Mean Filter
+- Median Filter
+- Adaptive Median Filter
+
+2. Frequency Domain Filtering
+- Turbulence
+- Wiener Filter
