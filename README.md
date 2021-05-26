@@ -89,5 +89,5 @@ Image Restoration
 - Adaptive Median Filter
 
 2. Frequency Domain Filtering
-- Turbulence
+- Add Atmospheric Turbulence
 - Wiener Filter
