@@ -108,7 +108,27 @@ Image Restoration
   ![s p2](https://user-images.githubusercontent.com/74402562/120076429-739fec80-c0e0-11eb-81cd-3cf5ec6bad75.PNG)
   <img src="https://user-images.githubusercontent.com/74402562/120076445-7ef31800-c0e0-11eb-8e6a-cf800924039d.PNG" width="36%" height="36%"></img>
   
-- Contraharmonic Mean Filter
+- Image degraded by Salt & Pepper noise (pp = 0.1 , ps = 0.1 , pp = ps = 0.1)    
+  <img src="https://user-images.githubusercontent.com/74402562/120109576-fab69880-c1a4-11eb-9c88-4dd4c2635059.PNG" width="30%" height="30%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120109579-fb4f2f00-c1a4-11eb-837d-e349796d8d56.PNG" width="30%" height="30%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120109580-fc805c00-c1a4-11eb-8096-932e8eb2f407.PNG" width="30%" height="30%"></img>
+
+- Contraharmonic Mean Filter      
+  - Q = 1.5     
+  <img src="https://user-images.githubusercontent.com/74402562/120109585-00ac7980-c1a5-11eb-8cff-0e788f7e4c90.PNG" width="30%" height="30%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120109589-02763d00-c1a5-11eb-95d0-5e5fed6b254b.PNG" width="30%" height="30%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120109592-030ed380-c1a5-11eb-918f-5425759fcf92.PNG" width="30%" height="30%"></img>
+  
+  - Q = 0      
+  <img src="https://user-images.githubusercontent.com/74402562/120109587-01dda680-c1a5-11eb-8599-6874bf410a0a.PNG" width="30%" height="30%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120109590-02763d00-c1a5-11eb-9a4e-b55c1512f558.PNG" width="30%" height="30%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120109593-04d89700-c1a5-11eb-9f86-55fe7930a9f5.PNG" width="30%" height="30%"></img>
+  
+  - Q = -1.5      
+  <img src="https://user-images.githubusercontent.com/74402562/120109588-01dda680-c1a5-11eb-8f15-f36a192f1ecc.PNG" width="30%" height="30%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120109591-030ed380-c1a5-11eb-98c0-18c8aa617d42.PNG" width="30%" height="30%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120109594-04d89700-c1a5-11eb-9535-5f55ad3e9897.PNG" width="30%" height="30%"></img>
+  
 - Median Filter
 - Adaptive Median Filter
 
