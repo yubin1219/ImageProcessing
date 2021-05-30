@@ -88,25 +88,13 @@ Image Restoration
   ![salt1](https://user-images.githubusercontent.com/74402562/120076425-70a4fc00-c0e0-11eb-9e49-06b3a874a5e5.PNG)
   <img src="https://user-images.githubusercontent.com/74402562/120076435-7995cd80-c0e0-11eb-9934-e8a1a58ab4ab.PNG" width="36%" height="36%"></img>
   
-  - Salt noise (ps = 0.5)    
-  ![salt2](https://user-images.githubusercontent.com/74402562/120076426-713d9280-c0e0-11eb-90bf-5f5d1e6961ac.PNG)
-  <img src="https://user-images.githubusercontent.com/74402562/120076436-7b5f9100-c0e0-11eb-9de9-da097849885a.PNG" width="36%" height="36%"></img>
-  
   - Pepper noise (pp = 0.1)    
   ![pepper1](https://user-images.githubusercontent.com/74402562/120076423-6f73cf00-c0e0-11eb-9441-ae9b10dd0435.PNG)
   <img src="https://user-images.githubusercontent.com/74402562/120076441-7e5a8180-c0e0-11eb-8d8f-cfee4c50cca0.PNG" width="36%" height="36%"></img>
   
-  - Pepper noise (ps = 0.5)    
-  ![pepper2](https://user-images.githubusercontent.com/74402562/120076424-70a4fc00-c0e0-11eb-8398-61bab403e02c.PNG)
-  <img src="https://user-images.githubusercontent.com/74402562/120076442-7e5a8180-c0e0-11eb-86f4-904ae83c0b7d.PNG" width="36%" height="36%"></img>
-  
   - Salt & Pepper noise (ps = pp = 0.05)    
   ![s p1](https://user-images.githubusercontent.com/74402562/120076427-713d9280-c0e0-11eb-88d9-e27b9ae8c9e9.PNG)
   <img src="https://user-images.githubusercontent.com/74402562/120076444-7ef31800-c0e0-11eb-983d-6a20035b304a.PNG" width="36%" height="36%"></img>
-  
-  - Salt & Pepper noise (ps = pp = 0.25)    
-  ![s p2](https://user-images.githubusercontent.com/74402562/120076429-739fec80-c0e0-11eb-81cd-3cf5ec6bad75.PNG)
-  <img src="https://user-images.githubusercontent.com/74402562/120076445-7ef31800-c0e0-11eb-8e6a-cf800924039d.PNG" width="36%" height="36%"></img>
   
 - Image degraded by Salt & Pepper noise (pp = 0.1 , ps = 0.1 , pp = ps = 0.1)    
   <img src="https://user-images.githubusercontent.com/74402562/120109576-fab69880-c1a4-11eb-9c88-4dd4c2635059.PNG" width="30%" height="30%"></img>
