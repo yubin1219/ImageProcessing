@@ -129,8 +129,15 @@ Image Restoration
   <img src="https://user-images.githubusercontent.com/74402562/120109591-030ed380-c1a5-11eb-98c0-18c8aa617d42.PNG" width="30%" height="30%"></img>
   <img src="https://user-images.githubusercontent.com/74402562/120109594-04d89700-c1a5-11eb-9535-5f55ad3e9897.PNG" width="30%" height="30%"></img>
   
-- Median Filter
-- Adaptive Median Filter
+- Median Filter       
+  <img src="https://user-images.githubusercontent.com/74402562/120110254-ba0c4e80-c1a7-11eb-94db-fa60ee1bc6ce.PNG" width="30%" height="30%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120110257-bd073f00-c1a7-11eb-8427-128427650242.PNG" width="30%" height="30%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120110259-be386c00-c1a7-11eb-880b-113c982ccddf.PNG" width="30%" height="30%"></img>
+
+- Adaptive Median Filter    
+  <img src="https://user-images.githubusercontent.com/74402562/120110272-c7c1d400-c1a7-11eb-9eb4-8bc4c2fe070b.PNG" width="30%" height="30%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120110274-c85a6a80-c1a7-11eb-8553-a1426b89aa24.PNG" width="30%" height="30%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120110275-c85a6a80-c1a7-11eb-98de-3bf6fb43bf5f.PNG" width="30%" height="30%"></img>
 
 2. Frequency Domain Filtering
 - Add Atmospheric Turbulence
