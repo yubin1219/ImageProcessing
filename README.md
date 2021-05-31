@@ -135,4 +135,4 @@ Image Restoration
   <img src="https://user-images.githubusercontent.com/74402562/120220820-4f771380-c278-11eb-8644-cdd9026b383c.PNG" width="40%" height="40%"></img>
   
 - Wiener Filter    
-  <img src="https://user-images.githubusercontent.com/74402562/120220823-500faa00-c278-11eb-927b-09cf9b1e9dcf.PNG" width="40%" height="40%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120221654-bd700a80-c279-11eb-976b-9f56f94b6fb1.PNG" width="40%" height="40%"></img>
