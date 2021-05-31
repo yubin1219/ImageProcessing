@@ -97,36 +97,42 @@ Image Restoration
   <img src="https://user-images.githubusercontent.com/74402562/120076444-7ef31800-c0e0-11eb-983d-6a20035b304a.PNG" width="36%" height="36%"></img>
   
 - Image degraded by Salt & Pepper noise (pp = 0.1 , ps = 0.1 , pp = ps = 0.1)    
-  <img src="https://user-images.githubusercontent.com/74402562/120109576-fab69880-c1a4-11eb-9c88-4dd4c2635059.PNG" width="30%" height="30%"></img>
-  <img src="https://user-images.githubusercontent.com/74402562/120109579-fb4f2f00-c1a4-11eb-837d-e349796d8d56.PNG" width="30%" height="30%"></img>
-  <img src="https://user-images.githubusercontent.com/74402562/120109580-fc805c00-c1a4-11eb-8096-932e8eb2f407.PNG" width="30%" height="30%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120109576-fab69880-c1a4-11eb-9c88-4dd4c2635059.PNG" width="26%" height="26%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120109579-fb4f2f00-c1a4-11eb-837d-e349796d8d56.PNG" width="26%" height="26%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120109580-fc805c00-c1a4-11eb-8096-932e8eb2f407.PNG" width="26%" height="26%"></img>
 
 - Contraharmonic Mean Filter      
   - Q = 1.5     
-  <img src="https://user-images.githubusercontent.com/74402562/120109585-00ac7980-c1a5-11eb-8cff-0e788f7e4c90.PNG" width="30%" height="30%"></img>
-  <img src="https://user-images.githubusercontent.com/74402562/120109589-02763d00-c1a5-11eb-95d0-5e5fed6b254b.PNG" width="30%" height="30%"></img>
-  <img src="https://user-images.githubusercontent.com/74402562/120109592-030ed380-c1a5-11eb-918f-5425759fcf92.PNG" width="30%" height="30%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120109585-00ac7980-c1a5-11eb-8cff-0e788f7e4c90.PNG" width="26%" height="26%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120109589-02763d00-c1a5-11eb-95d0-5e5fed6b254b.PNG" width="26%" height="26%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120109592-030ed380-c1a5-11eb-918f-5425759fcf92.PNG" width="26%" height="26%"></img>
   
   - Q = 0      
-  <img src="https://user-images.githubusercontent.com/74402562/120109587-01dda680-c1a5-11eb-8599-6874bf410a0a.PNG" width="30%" height="30%"></img>
-  <img src="https://user-images.githubusercontent.com/74402562/120109590-02763d00-c1a5-11eb-9a4e-b55c1512f558.PNG" width="30%" height="30%"></img>
-  <img src="https://user-images.githubusercontent.com/74402562/120109593-04d89700-c1a5-11eb-9f86-55fe7930a9f5.PNG" width="30%" height="30%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120109587-01dda680-c1a5-11eb-8599-6874bf410a0a.PNG" width="26%" height="26%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120109590-02763d00-c1a5-11eb-9a4e-b55c1512f558.PNG" width="26%" height="26%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120109593-04d89700-c1a5-11eb-9f86-55fe7930a9f5.PNG" width="26%" height="26%"></img>
   
   - Q = -1.5      
-  <img src="https://user-images.githubusercontent.com/74402562/120109588-01dda680-c1a5-11eb-8f15-f36a192f1ecc.PNG" width="30%" height="30%"></img>
-  <img src="https://user-images.githubusercontent.com/74402562/120109591-030ed380-c1a5-11eb-98c0-18c8aa617d42.PNG" width="30%" height="30%"></img>
-  <img src="https://user-images.githubusercontent.com/74402562/120109594-04d89700-c1a5-11eb-9535-5f55ad3e9897.PNG" width="30%" height="30%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120109588-01dda680-c1a5-11eb-8f15-f36a192f1ecc.PNG" width="26%" height="26%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120109591-030ed380-c1a5-11eb-98c0-18c8aa617d42.PNG" width="26%" height="26%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120109594-04d89700-c1a5-11eb-9535-5f55ad3e9897.PNG" width="26%" height="26%"></img>
   
 - Median Filter       
-  <img src="https://user-images.githubusercontent.com/74402562/120110254-ba0c4e80-c1a7-11eb-94db-fa60ee1bc6ce.PNG" width="30%" height="30%"></img>
-  <img src="https://user-images.githubusercontent.com/74402562/120110257-bd073f00-c1a7-11eb-8427-128427650242.PNG" width="30%" height="30%"></img>
-  <img src="https://user-images.githubusercontent.com/74402562/120110259-be386c00-c1a7-11eb-880b-113c982ccddf.PNG" width="30%" height="30%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120110254-ba0c4e80-c1a7-11eb-94db-fa60ee1bc6ce.PNG" width="26%" height="26%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120110257-bd073f00-c1a7-11eb-8427-128427650242.PNG" width="26%" height="26%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120110259-be386c00-c1a7-11eb-880b-113c982ccddf.PNG" width="26%" height="26%"></img>
 
 - Adaptive Median Filter    
-  <img src="https://user-images.githubusercontent.com/74402562/120110272-c7c1d400-c1a7-11eb-9eb4-8bc4c2fe070b.PNG" width="30%" height="30%"></img>
-  <img src="https://user-images.githubusercontent.com/74402562/120110274-c85a6a80-c1a7-11eb-8553-a1426b89aa24.PNG" width="30%" height="30%"></img>
-  <img src="https://user-images.githubusercontent.com/74402562/120110275-c85a6a80-c1a7-11eb-98de-3bf6fb43bf5f.PNG" width="30%" height="30%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120110272-c7c1d400-c1a7-11eb-9eb4-8bc4c2fe070b.PNG" width="26%" height="26%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120110274-c85a6a80-c1a7-11eb-8553-a1426b89aa24.PNG" width="26%" height="26%"></img>
+  <img src="https://user-images.githubusercontent.com/74402562/120110275-c85a6a80-c1a7-11eb-98de-3bf6fb43bf5f.PNG" width="26%" height="26%"></img>
 
 2. Frequency Domain Filtering
-- Add Atmospheric Turbulence
-- Wiener Filter
+- Original Image    
+  <img src="https://user-images.githubusercontent.com/74402562/120220819-4ede7d00-c278-11eb-9995-9d55622deffb.PNG" width="40%" height="40%"></img>
+
+- Add Atmospheric Turbulence     
+  <img src="https://user-images.githubusercontent.com/74402562/120220820-4f771380-c278-11eb-8644-cdd9026b383c.PNG" width="40%" height="40%"></img>
+  
+- Wiener Filter    
+  <img src="https://user-images.githubusercontent.com/74402562/120220823-500faa00-c278-11eb-927b-09cf9b1e9dcf.PNG" width="40%" height="40%"></img>
