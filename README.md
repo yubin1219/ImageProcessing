@@ -136,3 +136,11 @@ Image Restoration
   
 - Wiener Filter    
   <img src="https://user-images.githubusercontent.com/74402562/120221654-bd700a80-c279-11eb-976b-9f56f94b6fb1.PNG" width="40%" height="40%"></img>
+  
+-----------------
+### HW5
+Color Image Processing
+1. Convert RGB to HSI
+2. Sobel Filtering
+  - RGB color space
+  - HSI color space
