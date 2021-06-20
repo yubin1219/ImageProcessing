@@ -140,7 +140,9 @@ Image Restoration
 -----------------
 ### HW5
 Color Image Processing
-1. Convert RGB to HSI
+1. Convert RGB to HSI / Convert HSI to RGB
 2. Sobel Filtering
-  - RGB color space
-  - HSI color space
+  - RGB color space    
+  <img src="https://user-images.githubusercontent.com/74402562/122675710-a471ce00-d215-11eb-8d3f-84024851e8e3.PNG" width="40%" height="40%"></img>
+  - HSI color space    
+  <img src="https://user-images.githubusercontent.com/74402562/122675712-a6d42800-d215-11eb-99eb-9b9a88da29e1.PNG" width="40%" height="40%"></img>
